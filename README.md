@@ -5,14 +5,13 @@
 
 ***
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
+More about me...  
 
 I'm a Full Stack Developer student at @4Geeks Academy.
 I am passionate about learning, creating, and shaping digital ideas.
 I strive to grow every day and embrace new challenges in the world of web development. 🦄
 
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZvaGs5NWlxaGQxdnRhbmIxdm1jcDkyd29kZzkxMjdtMmpnNmZ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fimJbiI2SiGx5JfOyP/giphy.gif" />
 
 
 
