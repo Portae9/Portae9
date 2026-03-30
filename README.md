@@ -52,14 +52,6 @@
 
 
 
-I'm a Full Stack Developer, passionate about learning, creating, and shaping digital ideas.
-I strive to grow every day and embrace new challenges in the world of web development. 🦄
-
-<!--  -->
-
-
-</br>
-
 
 
 
