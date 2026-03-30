@@ -2,12 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Torres-Martinez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage&disable_animations=false&locale=en&hide_border=false" width="400" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roberto-Torres-Martinez&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=ayu-mirage&hide_border=false" width="400" alt="languages graph" />
-</div>
 
-###
 
 <img align="right" height="175" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" />
 
