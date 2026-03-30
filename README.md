@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi There! Im Claudia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="left">:wave:<br>Welcome to my GitHub profile! I’m a Full-Stack Developer.</h2>
+<h2 align="left"><br>Welcome to my GitHub profile! I’m a Full-Stack Developer.</h2>
 
 ###
 
