@@ -1,4 +1,5 @@
-<h2 align="left">Hi there! :wave:<br>Welcome to my GitHub profile! I’m a Full-Stack Developer.</h2>
+<h1 align="center"><b>Hi There! Im Claudia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="left">:wave:<br>Welcome to my GitHub profile! I’m a Full-Stack Developer.</h2>
 
 ###
 
@@ -45,10 +46,7 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Roberto-Torres-Martinez&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
-</div><h1 align="center"><b>Hi There! Im Claudia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Full+Stack+Developer+in+the+making...;++++;"></a>
-</p>
+</div>
 
 ***
 
