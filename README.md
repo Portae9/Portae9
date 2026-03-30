@@ -1,4 +1,56 @@
-<h1 align="center"><b>Hi There! Im Claudia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="left">Hi there! :wave:<br>Welcome to my GitHub profile! I’m a Full-Stack Developer.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Torres-Martinez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage&disable_animations=false&locale=en&hide_border=false" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roberto-Torres-Martinez&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=ayu-mirage&hide_border=false" width="400" alt="languages graph" />
+</div>
+
+###
+
+<img align="right" height="175" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" />
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="47" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="47" alt="sqlalchemy logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="47" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="47" alt="bootstrap logo"  />
+</div>
+<br>
+
+###
+
+<br>
+<div align="left">
+  <a href="mailto:porta9nova@gmail.com" targat="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+<a href="https://www.linkedin.com/in/claudia-lucia-portanova/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+<br>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Roberto-Torres-Martinez&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
+</div><h1 align="center"><b>Hi There! Im Claudia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Full+Stack+Developer+in+the+making...;++++;"></a>
 </p>
@@ -14,28 +66,8 @@ I strive to grow every day and embrace new challenges in the world of web develo
 <!--  -->
 
 
-
-👾 Im currently learning: 
 </br>
 
-
-<span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
- </span>
-
-
-</br>
-</br>
-
-
-🧩 Tools: 
-
-Git | GitHub | Bootstrap
-
-</br>
 
 
 🎯 Goals
@@ -45,21 +77,5 @@ Git | GitHub | Bootstrap
 - Collaborate with other developers and contribute to open-source projects.  
 
 
-Before diving into code, I explored other creative worlds, 
-🎬 film and video editing, 2d-3d animation and lighting design.
-🎷 I’m passionate about both listening / playing music. 
-🎒 I'm also a traveller / digital nomad 
 
 
-
-<br>
-
-Let’s Connect:
-<br>
-
-🌍Love interacting with the community, sharing knowledge, and learning new things
-
-💬 Open to collaborations, mentorships, or just a good chat!
-<br>
-
-📫 Reach out to me at: <a href="porta9nova@gmail.com">porta9nova@gmail.com</a>
