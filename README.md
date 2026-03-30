@@ -52,10 +52,9 @@
 
 ***
 
-More about me...  
 
-I'm a Full Stack Developer student at @4Geeks Academy.
-I am passionate about learning, creating, and shaping digital ideas.
+
+I'm a Full Stack Developer, passionate about learning, creating, and shaping digital ideas.
 I strive to grow every day and embrace new challenges in the world of web development. 🦄
 
 <!--  -->
@@ -64,12 +63,6 @@ I strive to grow every day and embrace new challenges in the world of web develo
 </br>
 
 
-
-🎯 Goals
-
-- Build a solid foundation in **web development** (front-end & back-end).  
-- Create projects that combine creativity and functional code
-- Collaborate with other developers and contribute to open-source projects.  
 
 
 
