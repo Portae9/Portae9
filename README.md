@@ -44,8 +44,8 @@
 ###
 <br>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Roberto-Torres-Martinez&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Portae9&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Portae9/output/snake.svg" alt="Snake animation" />
 </div>
 
 ***
